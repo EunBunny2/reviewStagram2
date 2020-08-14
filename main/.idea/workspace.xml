@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d5a6248-4b68-4b9e-a4d6-cd37efce01c7" name="Default Changelist" comment="로그인창 GUI">
+      <change beforePath="$PROJECT_DIR$/wordclouds/아메리칸트레이.png" beforeDir="false" afterPath="$PROJECT_DIR$/wordclouds/아메리칸트레이.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1dogQ5AKjF1xUCBtNFo9IkYTmaE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/reviewStagram2/main" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ChoEunBin\source\repos\EunBunny2\reviewStagram\main\main\dataset" />
+      <recent name="C:\Users\ChoEunBin\source\repos\EunBunny2\reviewStagram\main\main\icon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.gui">
+    <configuration name="funcs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ChoEunBin\source\repos\EunBunny2\reviewStagram\main\main\funcs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab08_sa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../lab08_sa/lab08_sa" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../lab08_sa/lab08_sa/lab08_sa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="makeDataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/makeDataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gui" />
+        <item itemvalue="Python.makeDataset" />
+        <item itemvalue="Python.lab08_sa" />
+        <item itemvalue="Python.funcs" />
+        <item itemvalue="Python.funcs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d5a6248-4b68-4b9e-a4d6-cd37efce01c7" name="Default Changelist" comment="" />
+      <created>1593096840568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593096840568</updated>
+    </task>
+    <task id="LOCAL-00001" summary="로그인창 GUI">
+      <created>1593139785397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593139785397</updated>
+    </task>
+    <task id="LOCAL-00002" summary="로그인 실패시 메세지박스 출력 &amp; 로그인 성공시 메뉴 선택 레이아웃으로 변경">
+      <created>1593182283952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593182283952</updated>
+    </task>
+    <task id="LOCAL-00003" summary="평점 검색 창 띄우기">
+      <created>1593331077076</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593331077076</updated>
+    </task>
+    <task id="LOCAL-00004" summary="강남 맛집 리뷰 긁어오기&#10;각각의 가게 페이지에서 영수증 리뷰 탭에 들어가 리뷰, 점수 긁어오는 데 까지 구현했으나 영수증 리뷰 페이지를 넘기는 부분이 아직 안됨">
+      <created>1596203511017</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596203511017</updated>
+    </task>
+    <task id="LOCAL-00005" summary="강남 맛집 리뷰 긁어오기&#10;각각의 가게 페이지에서 영수증 리뷰 탭에 들어가 리뷰, 점수 긁어오는 데 까지 구현했으나 영수증 리뷰 페이지를 넘기는 부분이 아직 안됨">
+      <created>1596206666722</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596206666722</updated>
+    </task>
+    <task id="LOCAL-00006" summary="강남 맛집 리뷰 긁어오기&#10;강남 맛집 목록 넘기면서 가게들의 id 읽어옴&#10;각각의 가게 페이지에서 영수증 리뷰 탭에 들어가 리뷰, 점수 긁어옴">
+      <created>1596207000523</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596207000523</updated>
+    </task>
+    <task id="LOCAL-00007" summary="강남 맛집 목록 넘기면서 가게들의 id 읽어옴">
+      <created>1596207033591</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596207033591</updated>
+    </task>
+    <task id="LOCAL-00008" summary="강남, 대전 리뷰 데이터 맞춤법 검사">
+      <created>1596305621341</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596305621341</updated>
+    </task>
+    <task id="LOCAL-00009" summary="강남, 대전 리뷰 데이터 맞춤법 검사">
+      <created>1596305959784</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596305959784</updated>
+    </task>
+    <task id="LOCAL-00010" summary="x_train, y_rain 생성">
+      <created>1596474707784</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596474707784</updated>
+    </task>
+    <task id="LOCAL-00011" summary="RNN 모델 생성">
+      <created>1597233264325</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597233264326</updated>
+    </task>
+    <task id="LOCAL-00012" summary="인스타 게시글 불러와서 평점 예측 및 평균 측정">
+      <created>1597239929225</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1597239929225</updated>
+    </task>
+    <task id="LOCAL-00013" summary="대표이미지 3개 띄우기">
+      <created>1597258273953</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1597258273953</updated>
+    </task>
+    <task id="LOCAL-00014" summary="워드클라우드, 시간대별 방문자 수 그래프 띄우기">
+      <created>1597314218137</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1597314218137</updated>
+    </task>
+    <task id="LOCAL-00015" summary="맛집순위 UI 중 랭킹 1~3위 영역 제작">
+      <created>1597332228475</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1597332228476</updated>
+    </task>
+    <task id="LOCAL-00016" summary="맛집순위 UI 4위 추가 및 검색 기능 완료">
+      <created>1597340010591</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1597340010591</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="로그인창 GUI" />
+    <MESSAGE value="로그인 실패시 메세지박스 출력 &amp; 로그인 성공시 메뉴 선택 레이아웃으로 변경" />
+    <MESSAGE value="평점 검색 창 띄우기" />
+    <MESSAGE value="강남 맛집 리뷰 긁어오기&#10;각각의 가게 페이지에서 영수증 리뷰 탭에 들어가 리뷰, 점수 긁어오는 데 까지 구현했으나 영수증 리뷰 페이지를 넘기는 부분이 아직 안됨" />
+    <MESSAGE value="강남 맛집 목록 페이지 넘기면서 가게 id 저장" />
+    <MESSAGE value="강남 맛집 리뷰 긁어오기&#10;강남 맛집 목록 넘기면서 가게들의 id 읽어옴&#10;각각의 가게 페이지에서 영수증 리뷰 탭에 들어가 리뷰, 점수 긁어옴" />
+    <MESSAGE value="강남 맛집 목록 넘기면서 가게들의 id 읽어옴" />
+    <MESSAGE value="강남, 대전 리뷰 데이터 맞춤법 검사" />
+    <MESSAGE value="x_train, y_rain 생성" />
+    <MESSAGE value="RNN 모델 생성" />
+    <MESSAGE value="인스타 게시글 불러와서 평점 예측 및 평균 측정" />
+    <MESSAGE value="대표이미지 3개 띄우기" />
+    <MESSAGE value="워드클라우드, 시간대별 방문자 수 그래프 띄우기" />
+    <MESSAGE value="맛집순위 UI 중 랭킹 1~3위 영역 제작" />
+    <MESSAGE value="맛집순위 UI 4위 추가 및 검색 기능 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="맛집순위 UI 4위 추가 및 검색 기능 완료" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593097006606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593097006606" />
+    <state x="1210" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597301849450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1210" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597301849450" />
+    <state x="976" y="283" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596303447334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="976" y="283" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596303447334" />
+    <state x="97" y="110" width="1736" height="856" key="DiffContextDialog" timestamp="1597233670396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="97" y="110" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597233670396" />
+    <state x="1219" y="264" key="FileChooserDialogImpl" timestamp="1597414902329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1219" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597414902329" />
+    <state x="1318" y="421" width="350" height="205" key="Github.ShareDialog" timestamp="1597415237064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1318" y="421" width="350" height="205" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597415237064" />
+    <state width="938" height="239" key="GridCell.Tab.0.bottom" timestamp="1597400811654">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597400811654" />
+    <state width="938" height="239" key="GridCell.Tab.0.center" timestamp="1597400811653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597400811653" />
+    <state width="938" height="239" key="GridCell.Tab.0.left" timestamp="1597400811653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597400811653" />
+    <state width="938" height="239" key="GridCell.Tab.0.right" timestamp="1597400811653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597400811653" />
+    <state width="1899" height="350" key="GridCell.Tab.1.bottom" timestamp="1597340026357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="350" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597340026357" />
+    <state width="1899" height="350" key="GridCell.Tab.1.center" timestamp="1597340026357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="350" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597340026357" />
+    <state width="1899" height="350" key="GridCell.Tab.1.left" timestamp="1597340026357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="350" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597340026357" />
+    <state width="1899" height="350" key="GridCell.Tab.1.right" timestamp="1597340026357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="350" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597340026357" />
+    <state x="727" y="231" key="RollbackChangesDialog" timestamp="1593096938291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="231" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593096938291" />
+    <state x="817" y="97" key="SettingsEditor" timestamp="1597413542886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="817" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597413542886" />
+    <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1593175354672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1593175354672" />
+    <state x="1324" y="433" key="VCS.EditChangelistDialog" timestamp="1593148392240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1324" y="433" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593148392240" />
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597340013308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597340013308" />
+    <state x="1148" y="118" width="584" height="804" key="find.popup" timestamp="1596470820883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1148" y="118" width="584" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596470820883" />
+    <state x="1230" y="418" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597413892979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1230" y="418" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597413892979" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
