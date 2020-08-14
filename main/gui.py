@@ -21,16 +21,15 @@ import matplotlib.pyplot as plt
 from matplotlib import style, font_manager
 
 
-# 스크롤바, 워드클라우드, 시간 그래프#
 
 # 옵션 추가 (브라우저 띄우지 않음)
-# options = wd.ChromeOptions()
-# options.add_argument('headless')
-# options.add_argument('disable-gpu')
-# driver = wd.Chrome(executable_path='./chromedriver', options=options)
+options = wd.ChromeOptions()
+options.add_argument('headless')
+options.add_argument('disable-gpu')
+driver = wd.Chrome(executable_path='./chromedriver', options=options)
 
 
-driver = wd.Chrome(executable_path='./chromedriver')
+# driver = wd.Chrome(executable_path='./chromedriver')
 
 class PicButton(QAbstractButton):
     def __init__(self, pixmap, parent=None):
@@ -156,9 +155,9 @@ class MyApp(QWidget):
         # 유저 정보 입력했는데 여전히 로그인 페이지에 머물러 있으면 로그인 실패
         if cur_url == "https://www.instagram.com/accounts/login/":
             fail_message = QMessageBox.question(self, 'Login Fail', '아이디 또는 비밀번호가 틀렸습니다.\n 다시 입력해주세요', QMessageBox.Ok)
-            self.clearLayout(self.id_layout)
-            self.clearLayout(self.login_layout)
-            self.set_selectLayout()
+            # self.clearLayout(self.id_layout)
+            # self.clearLayout(self.login_layout)
+            # self.set_selectLayout()
 
         # 유저 정보 입력하고 다음 페이지로 넘어가면 로그인 성공
         else:
