@@ -485,7 +485,7 @@ def spacing_del(list):
 def str_to_int(list):
     new_list = []
     for v in list:
-        if v != '\n':
+        if v != '\n' and v != "":
             v = v.strip('\n')
             v = v.replace(',', '')
             vi = int(v)
