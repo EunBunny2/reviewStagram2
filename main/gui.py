@@ -23,13 +23,13 @@ from matplotlib import style, font_manager
 
 
 # 옵션 추가 (브라우저 띄우지 않음)
-options = wd.ChromeOptions()
-options.add_argument('headless')
-options.add_argument('disable-gpu')
-driver = wd.Chrome(executable_path='./chromedriver', options=options)
+# options = wd.ChromeOptions()
+# options.add_argument('headless')
+# options.add_argument('disable-gpu')
+# driver = wd.Chrome(executable_path='./chromedriver', options=options)
 
 
-# driver = wd.Chrome(executable_path='./chromedriver')
+driver = wd.Chrome(executable_path='./chromedriver')
 
 class PicButton(QAbstractButton):
     def __init__(self, pixmap, parent=None):
@@ -378,8 +378,10 @@ class UIrankingTab(QWidget):
             naverplace_url = 'https://map.naver.com/v5/search?c=14287043.2153244,4311325.4795115,14,0,0,0,dh'
             driver.get(naverplace_url)
             search_word = place_name+'맛집\n'
-            driver.find_element_by_xpath('//*[@id="container"]/div[1]/shrinkable-layout/search-layout/search-box/div/div[1]').click()   # 검색창 클릭
-            driver.find_element_by_xpath('//*[@id="container"]/div[1]/shrinkable-layout/search-layout/search-box/div/div[1]').send_keys(search_word)    # 검색어 입력
+            # driver.find_element_by_xpath('//*[@id="container"]/div[1]/shrinkable-layout/search-layout/search-box/div/div[1]').click()   # 검색창 클릭
+            # driver.find_element_by_xpath('//*[@id="container"]/div[1]/shrinkable-layout/search-layout/search-box/div/div[1]').send_keys(search_word)    # 검색어 입력
+            driver.find_element_by_xpath('//*[@id="container"]/shrinkable-layout/div/app-base/search-input-box/div/div[1]/div').click()  # 검색창 클릭
+            driver.find_element_by_xpath('//*[@id="container"]/shrinkable-layout/div/app-base/search-input-box/div/div[1]/div').send_keys(search_word)  # 검색어 입력
             driver.implicitly_wait(3)
             store_list=[]
             # 식당 이름을 store_list에 저장
@@ -662,8 +664,8 @@ class UIscoreTab(QWidget):
 
                 time.sleep(2)
                 # 게시글에 텍스트가 있으면 읽어들임
-                if hasxpath('/html/body/div[4]/div[2]/div/article/div[3]/div[1]/ul/div/li/div/div/div[2]/span'):
-                    post = driver.find_element_by_xpath('/html/body/div[4]/div[2]/div/article/div[3]/div[1]/ul/div/li/div/div/div[2]/span').text
+                if hasxpath('/html/body/div[5]/div[2]/div/article/div[3]/div[1]/ul/div/li/div/div/div[2]/span'):
+                    post = driver.find_element_by_xpath('/html/body/div[5]/div[2]/div/article/div[3]/div[1]/ul/div/li/div/div/div[2]/span').text
                     post = re.findall('[가-힣]+', post)  # 한국어로 된 게시글만 찾기
                     post = ' '.join(post)
                     check_result = spell_checker.check(post)
