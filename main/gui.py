@@ -23,13 +23,13 @@ from matplotlib import style, font_manager
 
 
 # 옵션 추가 (브라우저 띄우지 않음)
-# options = wd.ChromeOptions()
-# options.add_argument('headless')
-# options.add_argument('disable-gpu')
-# driver = wd.Chrome(executable_path='./chromedriver', options=options)
+options = wd.ChromeOptions()
+options.add_argument('headless')
+options.add_argument('disable-gpu')
+driver = wd.Chrome(executable_path='./chromedriver', options=options)
 
 
-driver = wd.Chrome(executable_path='./chromedriver')
+# driver = wd.Chrome(executable_path='./chromedriver')
 
 class PicButton(QAbstractButton):
     def __init__(self, pixmap, parent=None):
