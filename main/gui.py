@@ -55,7 +55,7 @@ class MyApp(QWidget):
         #self.resize(500, 800)
 
         # 타이틀 바의 왼쪽에 아이콘 추가
-        self.setWindowIcon(QIcon('./icon/로고.png'))
+        self.setWindowIcon(QIcon('./icon/하트.png'))
         #self.setGeometry(300, 300, 300, 200)
 
         # 배경 이미지 삽입
@@ -69,7 +69,7 @@ class MyApp(QWidget):
         #self.setFixedSize(500, 800)
 
         # 로고 이미지
-        self.pixmap_logo = QPixmap('./icon/로고워터마크.png')
+        self.pixmap_logo = QPixmap('./icon/하트.png')
         self.pixmap_logo = self.pixmap_logo.scaled(280, 220)
         self.logo_img = QLabel()
         self.logo_img.setPixmap(self.pixmap_logo)
